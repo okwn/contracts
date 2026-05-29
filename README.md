@@ -47,3 +47,5 @@ just semver-lock
 - If you don't have foundry installed, run `just install-foundry`.
 - `just deps`
 - Test contracts: `just test`
+
+- Documentation updated for clarity
